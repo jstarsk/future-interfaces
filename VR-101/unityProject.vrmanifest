@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.vr101.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\starsky\\stealingfire\\unity_apps\\future-interfaces\\VR-101\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "VR-101 [Testing]"
+        }
+      }
+    }
+  ]
+}
